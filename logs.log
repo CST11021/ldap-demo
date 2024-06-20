@@ -1,0 +1,8 @@
+六月 20, 2024 9:58:25 上午 com.whz.ldap.demo.LDAPOperations main
+信息: Class Name: ldapOperationsTest, Method: main()
+六月 20, 2024 9:58:25 上午 com.whz.ldap.demo.ConnectionUitility ldapBinding
+信息: Class Name: ConnectionUitility, Method: ldapBinding()
+六月 20, 2024 10:00:09 上午 com.whz.ldap.demo.LDAPOperations main
+信息: Class Name: ldapOperationsTest, Method: main()
+六月 20, 2024 10:00:09 上午 com.whz.ldap.demo.ConnectionUitility ldapBinding
+信息: Class Name: ConnectionUitility, Method: ldapBinding()
