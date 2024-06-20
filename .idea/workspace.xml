@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="244952df-38a6-4752-a5de-54c9e1edca93" name="Changes" comment="" />
+    <list default="true" id="244952df-38a6-4752-a5de-54c9e1edca93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LDAPOperationTest.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/AddUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/CommonUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/ConnectionUitility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/DeleteUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/Encryption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/LDAPOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/LookupUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/ModifyUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/ldap/demo/SearchUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logger.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,13 +57,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_directory_selection": "/Users/wanghongzhan/Documents/whzProjects/1_github/ldap-demo/src/test/java/com/whz",
-    "last_opened_file_path": "/Users/wanghongzhan/Desktop/ldap-demo/src/main/resources",
+    "last_opened_file_path": "/Users/wanghongzhan/Desktop/ldap-demo",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "891e2ba263991a21caa3f2de57514bb4",
+    "spring.configuration.checksum": "4371808243cf110840262bd7171b5530",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/whz/ldap/demo" />
     </key>
@@ -110,7 +126,8 @@
       <workItem from="1702371653683" duration="231000" />
       <workItem from="1702371907970" duration="7655000" />
       <workItem from="1710146889574" duration="478000" />
-      <workItem from="1718847651690" duration="1580000" />
+      <workItem from="1718847651690" duration="1787000" />
+      <workItem from="1718849452477" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="文档更新">
       <created>1702380039330</created>
